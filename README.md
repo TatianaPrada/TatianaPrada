@@ -1,9 +1,9 @@
 ### Hi there, I am Tatiana Prada 👋
 
-<div align="center">
+<div align="center" width="900em">
   <a href="https://github.com/TatianaPrada">
-  <img weight= "200em" height="170em" src="https://github-readme-stats.vercel.app/api?username=TatianaPrada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em"  weight= "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaPrada&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400em" height="170em" src="https://github-readme-stats.vercel.app/api?username=TatianaPrada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaPrada&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
  <img align="center" alt="Handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" >
  <img align="center" alt="Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" >
 
-  <img align="right" alt="cat-pic" height="150" style="border-radius:50px;" src=https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif>
+  <img align="right" alt="cat-pic" width="200" style="border-radius:50px;" src=https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif>
   </div>
   
 ##
